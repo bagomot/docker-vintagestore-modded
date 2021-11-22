@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  vsserver:
+    build:
+      context: .
+      args:
+        vs_data_path: /gamedata/vs/
+    container_name: vsserver
+    restart: always
+    volumes:
+      - gamedata:/gamedata
+    ports:
+      - 42420:42420
+    environment:
+      VS_DATA_PATH: /gamedata/vs
+volumes:
+  gamedata: null
