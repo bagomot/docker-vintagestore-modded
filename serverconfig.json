@@ -360,7 +360,7 @@
   "AllowPvP": true,
   "AllowFireSpread": true,
   "AllowFallingBlocks": true,
-  "StartupCommands": null,
+  "StartupCommands": "/op Bagomot",
   "RepairMode": false,
   "RegenerateCorruptChunks": false,
   "CorruptionProtection": true,
