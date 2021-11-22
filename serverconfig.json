@@ -51,7 +51,7 @@
   "GroupChatHistorySize": 20,
   "MaxOwnedGroupChannelsPerUser": 10,
   "ServerName": "EN|Mod - Vintage Story Server on the Flux network",
-  "ServerUrl": "https://github.com/bagomot/docker-vintagestore-modded",
+  "ServerUrl": "https://github.com/bagomot/docker-vintagestory-mod",
   "ServerDescription": "Modded VintageServer running on the Flux network",
   "WelcomeMessage": "Welcome {0}, may you survive well and prosper",
   "Ip": null,
