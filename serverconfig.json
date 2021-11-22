@@ -41,16 +41,18 @@
       "spawnRadius": 5
     },
     "MapSizeY": null,
-    "DisabledMods": null,
+    "DisabledMods": [
+      "reducedwolfaggro"
+    ],
     "RepairMode": false,
     "CreatedByPlayerName": "Bagomot"
   },
   "NextPlayerGroupUid": 10,
   "GroupChatHistorySize": 20,
   "MaxOwnedGroupChannelsPerUser": 10,
-  "ServerName": "EN - Vintage Story Server on the Flux network",
-  "ServerUrl": null,
-  "ServerDescription": "VintageServer running on the Flux network",
+  "ServerName": "EN|Mod - Vintage Story Server on the Flux network",
+  "ServerUrl": "https://github.com/bagomot/docker-vintagestore-modded",
+  "ServerDescription": "Modded VintageServer running on the Flux network",
   "WelcomeMessage": "Welcome {0}, may you survive well and prosper",
   "Ip": null,
   "Port": 42420,
